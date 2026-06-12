@@ -1,0 +1,6 @@
+# Raw binary (use release tarball instead)
+gradient_compressor
+
+# Python
+__pycache__/
+*.pyc
